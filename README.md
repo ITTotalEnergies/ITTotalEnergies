@@ -16,5 +16,6 @@ A **Total Energies** é uma empresa de energia ampla que produz e comercializa e
 * [Power BI](https://github.com/ITTotalEnergies/DEV_POWERAUTOMATE/edit/main/README.md)
 * [Zabbix | Grafana](https://github.com/ITTotalEnergies/DEV_POWERAUTOMATE/edit/main/README.md)
 * [SharePoint](https://github.com/ITTotalEnergies/DEV_POWERAUTOMATE/edit/main/README.md)
+* [HSEQ](https://github.com/ITTotalEnergies/HSEQ)
 * [Wiki](https://github.com/ITTotalEnergies/DEV_POWERAUTOMATE/edit/main/README.md)
 
